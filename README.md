@@ -38,10 +38,7 @@ npm install
 
 ## Running the app
 
-Ensure that the Mongodb URI matched with your intended database location. This can be changed in the `/backend/.env` file as follows:
-```
-MONGO_URI = 'mongodb://localhost:27017/cartoonopia'
-```
+Ensure that the Mongodb URI matches with your intended database location. This can be changed in the `/backend/.env` file.
 
 navigate to backend folder and run the backend
 ```
@@ -77,6 +74,7 @@ Nafi Robayat
 Mila Medic  
 Shiraj Shamshir Shawman  
 Zhanyu Jin  
+
 
 
 
