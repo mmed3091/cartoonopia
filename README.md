@@ -6,12 +6,12 @@ This is the final version of the Cartoonopia Web Application. Users can sign up 
 Regular users can be promoted to administrators by another administrator. Administrators have the authority to add, edit, and delete characters without approval from others. They can also approve or reject changes from regular users and view the entire change history of the website.
 
 ## Getting Started
-Visite the Node.js website and download the Node.js and npm (Node Package Manager) for your operating system.
+Visit the Node.js website and download the Node.js and npm (Node Package Manager) for your operating system.
 
 
 ### Prerequisites
 
-run this commoands in terminal to see the npm is installed properly. 
+run these commands in terminal to confirm the npm is installed properly. 
 ```
 node --version
 npm --version
@@ -84,6 +84,7 @@ Nafi Robayat
 Mila Medic  
 Shiraj Shamshir Shawman  
 Zhanyu Jin  
+
 
 
 
