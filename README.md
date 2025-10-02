@@ -22,15 +22,8 @@ npm --version
 
 Open VScode and clone the repository.
 
-```
-git clone https://github.sydney.edu.au/COMP5347-COMP4347-2024/Lab-6-Group6.git
-```
+Navigate to the project directory, and open terminal.
 
-Go to [Download Environment File](https://drive.google.com/drive/folders/1P21gIUB_DzX_YJnAfAai1sqTRTCAIrv8?usp=sharing)
-
-Download the frontend env into your local frontend, and the backend env into your local backend.
-
-In VScode, navigate to the project directory, and open terminal.
 Install depedencies in the backend:
 ```
 cd backend
@@ -84,6 +77,7 @@ Nafi Robayat
 Mila Medic  
 Shiraj Shamshir Shawman  
 Zhanyu Jin  
+
 
 
 
