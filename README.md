@@ -20,7 +20,7 @@ npm --version
 ### Installing
 
 
-Open VScode and clone the repository.
+Open code editor of choice and clone the repository.
 
 Navigate to the project directory, and open terminal.
 
@@ -74,6 +74,7 @@ Nafi Robayat
 Mila Medic  
 Shiraj Shamshir Shawman  
 Zhanyu Jin  
+
 
 
 
